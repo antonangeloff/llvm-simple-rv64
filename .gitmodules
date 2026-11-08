@@ -1,0 +1,6 @@
+[submodule "llvm-project"]
+	path = llvm-project
+	url = https://github.com/llvm/llvm-project.git
+[submodule "llvm-custom-target-test/Execution-Ext/c-testsuite"]
+	path = llvm-custom-target-test/Execution-Ext/c-testsuite
+	url = https://github.com/c-testsuite/c-testsuite.git
